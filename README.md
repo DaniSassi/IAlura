@@ -48,7 +48,7 @@ Contribuições para o desenvolvimento e aprimoramento do InspiraBot são bem-vi
 
 ## Licença
 
-[Adicionar informações sobre a licença, se aplicável]
+Não se aplica
 
 ## Descoberta (Discovery Platforms - Opcional)
 
